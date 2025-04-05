@@ -1,4 +1,4 @@
-# 发布地址
+# 阅读，tvbox等各种订阅源。发布地址
 
 ## [source.zgqinc.gq](https://source.zgqinc.gq/)
 
